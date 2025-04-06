@@ -37,7 +37,8 @@ To run this project locally, you’ll need to install the following dependencies
 - `langchain_ollama`
 - `langchain_core`
 
-You can install the required dependencies using `pip`:
+You can install the required dependencies by running the following command:
 
 ```bash
-pip install selenium beautifulsoup4 streamlit webdriver_manager langchain_ollama langchain_core
+pip install -r requirements.txt
+
